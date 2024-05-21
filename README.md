@@ -1,28 +1,28 @@
-#Spotify Web App
+# Spotify Web App
 
-##Overview
+## Overview
 
 The Spotify Web App is a web application that allows users to listen to music through a web player, view a list of their top songs, and create playlists from these songs. The application is built using HTML, CSS, and JavaScript for the frontend, and Node.js for the backend. This project is licensed under the GPL-3.0 license.
 
-##Features
+## Features
 
 - Web Player: Stream your favorite songs directly in the web browser.
 - Top Songs: View a list of your top songs.
 - Playlist Creation: Create and manage playlists using your top songs.
 
-##Technologies Used
+## Technologies Used
 
 **Frontend:** HTML, CSS, JavaScript
 **Backend:** JavaScript (Node.js)
 **License:** GPL-3.0
 
-##Installation
+## Installation
 
-###Prerequisites
+### Prerequisites
 - Node.js (v14.x or later)
 - npm (v6.x or later)
 
-###Setup
+### Setup
 1. Clone the repository:
 
 ```git clone https://github.com/En-regalia/Spotify_web_app.git```
@@ -39,19 +39,16 @@ Start the development server:
 
 ```npm start```
 
-##Usage
+## Usage
 
-Open your web browser and navigate to http://spotifystats.free.nf/.
+- Open your web browser and navigate to http://spotifystats.free.nf/.
+- Log in with your Spotify account.
+- Use the web player to stream music.
+- View your top songs.
+- Create playlists from your top songs.
 
-Log in with your Spotify account.
+## User Stories
 
-Use the web player to stream music.
-
-View your top songs.
-
-Create playlists from your top songs.
-
-##User Stories
 ```As a user,
 I want to log in with my Spotify account 
 so that I can access my music.
@@ -68,10 +65,10 @@ As a user,
 I want to create playlists from my top songs 
 so that I can organize my music easily.```
 
-##Test Cases
+## Test Cases
 TBC
 
-##Contributing
+## Contributing
 
 1. Fork the repository.
 
@@ -89,10 +86,10 @@ TBC
 
 5. Create a new Pull Request.
 
-##License
+## License
 
 This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
 
-##Contact
+## Contact
 For any questions or feedback, please contact [mike.ranner1@gmail.com].
 
