@@ -27,15 +27,15 @@ The Spotify Web App is a web application that allows users to listen to music th
 
 ```git clone https://github.com/En-regalia/Spotify_web_app.git```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```cd spotify-web-app```
 
-Install the dependencies:
+3. Install the dependencies:
 
 ```npm install```
 
-Start the development server:
+4. Start the development server:
 
 ```npm start```
 
@@ -63,7 +63,8 @@ so that I can listen to music without leaving the app.
 
 As a user, 
 I want to create playlists from my top songs 
-so that I can organize my music easily.```
+so that I can organize my music easily.
+```
 
 ## Test Cases
 TBC
@@ -92,4 +93,3 @@ This project is licensed under the GPL-3.0 License. See the LICENSE file for det
 
 ## Contact
 For any questions or feedback, please contact [mike.ranner1@gmail.com].
-
