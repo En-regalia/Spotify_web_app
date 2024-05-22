@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+    margin: 1px;
+    padding: 2px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-image:  url('https://img.freepik.com/free-vector/abstract-motion-wave-line-gradient-line-background-vector-design_8048-509.jpg?t=st=1716379172~exp=1716382772~hmac=3c497a64a142af7e27439cbf791cab6625e174577cbd570a2df87a6142298993&w=2000');
+    background-position: center;
+    size: 100%;
+    
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+    padding: 40px;
+
+}
+.main_heading {
+    display: flex;
+    border-radius: 25px;
+    min-width: fit-content;
+    height: 200px;
+    white-space: nowrap;
+    flex-grow: 1;
+    color: white;
+    padding: 20px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(83,83,83)), to(rgba(0, 0, 0, 0)));
+    font-size: 2rem;
+    color: white;
+}
+
+.h1 {
+    display: flex;
+    border-radius: 25px;
+    flex-grow: 1;
+    color: white;
+    background-color: white;    
+}
+
+.profile {
+    display: flex;
+    border-radius: 25px;
+    border-color: rgb(18, 167, 18);
+    border-width: 10px;
+    flex-grow: 1;
+    padding: 30px;
+    width: auto;
+    min-width: 400px;
+    background-color:rgb(83, 83, 83, 5);
+    color: rgb(255, 255, 255);
+    white-space: wrap;
+    overflow: hidden;
+}
+.profile h2 {
+    font-weight: 5;
+}
